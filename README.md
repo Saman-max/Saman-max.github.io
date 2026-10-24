@@ -1,2 +1,7 @@
-# Saman-max.github.io
-Haoyu Luo — AI products, projects and experience
+# Haoyu Luo · Personal Portfolio
+
+AI products, multilingual applications, projects and experience.
+
+Website: https://saman-max.github.io/
+
+Built with HTML, CSS and JavaScript.
